@@ -34,5 +34,5 @@ function and_perceptron()
 	end
 
 	w
-	X * w
+	X * w > 0
 end
