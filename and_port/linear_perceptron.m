@@ -37,3 +37,5 @@ function linear_perceptron()
 	
 	plot(J);
 end
+
+linear_perceptron()
